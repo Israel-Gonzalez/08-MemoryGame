@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    margin-bottom: 35px;
+    font-weight: bold;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+
+img {
+    height: 85px;
+    margin-top: 5px;
+    border-radius: 180px;
+}
+
+body {
+    background-color: orange;
+}
+
+#value {
+    font-size: 30px;
+    text-align: center;
+}

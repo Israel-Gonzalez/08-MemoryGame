@@ -1,0 +1,21 @@
+{
+  "name": "08-MemoryGame",
+  "authors": [
+    "Israel Gonzalez <i.gonzalez1212@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.6"
+  }
+}
