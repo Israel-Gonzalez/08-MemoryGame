@@ -55,6 +55,8 @@
             }
         };
 
+        // Flipping the card 
+
         vm.flipCard = function(card) {
             var cardAlreadySelected = false;
 
